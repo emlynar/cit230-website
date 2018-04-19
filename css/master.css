@@ -1,0 +1,18 @@
+body {
+   background-color: #FE4534;
+}
+
+h1 {
+   color: #342309;
+}
+
+h2 {
+   color: #FDAD35;
+}
+
+p {
+   background-color: #F7D7D4;
+   color: #342309;
+   padding: 0.7em;
+   border-radius: 3px;
+}

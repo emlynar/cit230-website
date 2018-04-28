@@ -14,7 +14,7 @@ h2 {
    text-align: center;
 }
 
-.subnav {
+nav {
    width: auto;
    display: flex;
    justify-content: center;

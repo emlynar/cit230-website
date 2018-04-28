@@ -1,0 +1,40 @@
+body {
+   background-color: #181818;
+}
+
+h1 {
+   color: #00ff78;
+   font-family: 'Slabo 27px', serif;
+   text-align: center;
+}
+
+h2 {
+   color: #00ff78;
+   font-family: 'Slabo 27px', serif;
+   text-align: center;
+}
+
+.subnav {
+   width: auto;
+   display: flex;
+   justify-content: center;
+}
+
+h3 {
+   background-color: #00ff78;
+   color: #181818;
+   margin: 5px auto;
+   padding: 1em 2em;
+   border-radius: 10px;
+   font-family: 'Slabo 27px', serif;
+}
+
+p {
+   background-color: #00ff78;
+   color: #181818;
+   margin: 5px auto;
+   padding: 1.5em;
+   border-radius: 10px;
+   font-family: 'Slabo 27px', serif;
+   width: 80%;
+}

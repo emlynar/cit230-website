@@ -1,0 +1,47 @@
+body {
+   background-color: #181818;
+}
+
+h2 {
+   color: #00ff78;
+   font-family: 'Slabo 27px', serif;
+   text-align: center;
+}
+
+nav {
+   background-color: #00ff78;
+   color: #181818;
+   border-radius: 10px;
+   width: 80%;
+   margin: 5px auto;
+   padding: 1.5em;
+   justify-content: center;
+}
+
+nav ol li a {
+   font-family: 'Slabo 27px', serif;
+}
+
+ul {
+   background-color: #00ff78;
+   color: #181818;
+   border-radius: 10px;
+   width: 80%;
+   margin: 5px auto;
+   padding: 1.5em;
+   justify-content: center;
+}
+
+ul li a {
+   font-family: 'Slabo 27px',serif;
+}
+
+p {
+   background-color: #00ff78;
+   color: #181818;
+   margin: 5px auto;
+   padding: 1.5em;
+   border-radius: 10px;
+   font-family: 'Slabo 27px', serif;
+   width: 80%;
+}

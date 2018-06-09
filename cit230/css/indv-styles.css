@@ -2,6 +2,15 @@ body {
    background-color: #181818;
 }
 
+#main-image {
+   text-align: center;
+}
+
+#main-image img {
+   width: 621px;
+   height: 88px;
+}
+
 h2 {
    color: #00ff78;
    font-family: 'Slabo 27px', serif;

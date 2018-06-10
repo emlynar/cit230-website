@@ -27,6 +27,41 @@ nav {
    justify-content: center;
 }
 
+#sec-page-nav {
+   background-color: #00ff78;
+   color: #181818;
+   border-radius: 10px;
+   width: 15%;
+   float: left;
+   padding: 1.0em;
+   display: flex;
+   justify-content: left;
+}
+
+#sec-page-nav ol li {
+   margin-bottom: 20px;
+}
+
+#sec-page-nav ol li a {
+   color: #181818;
+}
+
+#sec-page-links-container {
+   border-radius: 10px;
+   float: right;
+   width: 80%;
+   display: grid;
+   grid-template-columns: auto auto auto;
+}
+
+#sec-page-links-container a {
+   background-color: #00ff78;
+   color: #181818;
+   padding: 50px;
+   border: 3px solid #181818;
+   border-radius: 10px;
+}
+
 nav ol li a {
    font-family: 'Slabo 27px', serif;
 }

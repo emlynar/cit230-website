@@ -46,6 +46,11 @@ nav {
    color: #181818;
 }
 
+#sec-page-desc-para {
+   width: 75%;
+   float: right;
+}
+
 #sec-page-links-container {
    border-radius: 10px;
    float: right;
@@ -71,6 +76,17 @@ nav {
    padding: 1.0em;
    display: flex;
    justify-content: left;
+}
+
+main p {
+   background-color: #00ff78;
+   color: #181818;
+   margin: 5px auto;
+   padding: 1.5em;
+   border-radius: 10px;
+   font-family: 'Slabo 27px', serif;
+   width: 75%;
+   float: right;
 }
 
 nav ol li a {

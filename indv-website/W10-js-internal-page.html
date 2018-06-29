@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en-us">
+   <head>
+      <meta charset="utf-8" />
+      <title>W10 Test</title>
+      <link rel="stylesheet" href="../cit230/css/indv-styles.css">
+      <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
+   </head>
+   <body>
+     <h1 id="main-image"><img src="../images/RecommendDesk_Logo.png" alt="RecommendDesk Logo"></h1>
+     <h2>Graphics Cards</h2>
+     <nav id="thi-page-nav">
+        <ol>
+          <li><a href="../cit230-links.html">Back</a></li>
+        </ol>
+     </nav>
+     <main>
+        <p id="changePara" onmouseover="changeColorRed()" onmouseout="changeColorBack()">Graphics Cards – A graphics card is an all in one piece of equipment that is specifically designed to handle all the graphics on your computer. It takes away the strain of intense editing projects or games away from the CPU, so your processor can handle other tasks. A graphics card has its own processor and set of RAM. This is important when buying a graphics card because you must take all those specifications into account. Graphics cards plug into PCI express slots on your motherboard and you should check to make sure if you have the required slots for the card. It is not guaranteed a card will just work with your computer unless you have the appropriate PCI slots and room in your case.  A good graphics card can be the hallmark of your computer build but must work in tandem with your motherboard and other pieces of your computer to receive good results.</p>
+        <p>1. Mouse over the first paragraph.</p>
+     </main>
+     <footer>
+        <!-- Footer info here. -->
+     </footer>
+     <script>
+        function changeColorRed() {
+           document.getElementById("changePara").style.backgroundColor = "red";
+        }
+
+        function changeColorBack() {
+           document.getElementById("changePara").style.backgroundColor = "#00FF78";
+        }
+     </script>
+   </body>
+</html>

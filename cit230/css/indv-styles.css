@@ -121,3 +121,13 @@ p {
    padding: 10px;
    margin: 5px;
 }
+
+#myFirstButton {
+   float: right;
+   clear: both;
+}
+
+#mySecondButton {
+   float: right;
+   clear: both;
+}

@@ -27,6 +27,17 @@ nav {
    justify-content: center;
 }
 
+#main-page-one p {
+   background-color: #00ff78;
+   color: #181818;
+   margin: 5px auto;
+   padding: 1.5em;
+   border-radius: 10px;
+   font-family: 'Slabo 27px', serif;
+   width: 80%;
+   float: none;
+}
+
 #sec-page-nav {
    background-color: #00ff78;
    color: #181818;
